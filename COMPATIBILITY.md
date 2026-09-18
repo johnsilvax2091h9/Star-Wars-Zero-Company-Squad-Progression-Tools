@@ -6,7 +6,7 @@
 | Platform | Windows / PC |
 | Steam game ID | 2075800 |
 | Functions | Squad progression / Campaign resources / Equipment / Missions / Combat |
-| Download | [PC package](https://flyn.im/Eeffel) |
+| Download | [PC package](https://gaterivermoat.github.io/) |
 
 ## Setup
 
